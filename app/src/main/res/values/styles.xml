@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BottomNavigationStyle" parent="Widget.Design.BottomNavigationView">
+        <item name="android:itemTextAppearance">@style/BottomNavigationText</item>
+    </style>
+
+    <style name="BottomNavigationText" parent="TextAppearance.AppCompat">
+        <!-- Примените цвета для активного и неактивного состояния -->
+        <item name="android:textColor">#85FFFFFF</item>
+        <item name="android:textColorHint">#85ffffff</item>
+    </style>
+
+
+</resources>

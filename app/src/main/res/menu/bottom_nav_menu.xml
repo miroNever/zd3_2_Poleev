@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/news"
+        android:title="Новости"
+        android:icon="@drawable/news_ic"/>
+    <item android:id="@+id/detective"
+        android:title="Детективы"
+        android:icon="@drawable/detectives_ic"/>
+    <item android:id="@+id/comedy"
+        android:title="Комедии"
+        android:icon="@drawable/comedy_ic"/>
+    <item android:id="@+id/horror"
+        android:title="Ужасы"
+        android:icon="@drawable/horror_ic"/>
+</menu>
